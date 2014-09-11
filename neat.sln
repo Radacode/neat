@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neat.web", "neat.web\neat.web.csproj", "{5163CDBF-D17D-419B-94E5-2E8F74087E8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neat.data", "neat.data\neat.data.csproj", "{17AA1C40-7829-4DFA-90BA-2E33C745F48F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "neat.core", "neat.core\neat.core.csproj", "{E901CC08-9F3A-4B40-B561-815E94DB53DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5163CDBF-D17D-419B-94E5-2E8F74087E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5163CDBF-D17D-419B-94E5-2E8F74087E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5163CDBF-D17D-419B-94E5-2E8F74087E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5163CDBF-D17D-419B-94E5-2E8F74087E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17AA1C40-7829-4DFA-90BA-2E33C745F48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AA1C40-7829-4DFA-90BA-2E33C745F48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AA1C40-7829-4DFA-90BA-2E33C745F48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AA1C40-7829-4DFA-90BA-2E33C745F48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E901CC08-9F3A-4B40-B561-815E94DB53DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E901CC08-9F3A-4B40-B561-815E94DB53DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E901CC08-9F3A-4B40-B561-815E94DB53DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E901CC08-9F3A-4B40-B561-815E94DB53DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
